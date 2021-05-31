@@ -66,6 +66,7 @@ int main()
 	else {
 		cout << "\n res for EPS = " << Sum1(epsilon) << endl;
 	}
+	return 0;
 }
 double factorial(const int k)
 {
